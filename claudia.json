@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "api-test-sinyi-executor",
+    "name": "api-test-sinyi",
+    "region": "ap-southeast-1"
+  }
+}
